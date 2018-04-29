@@ -1,0 +1,5 @@
+#my  custom gitignore for Bill Gates Tribute
+#Remove boostrap folders which are not needed
+
+bootstrap/
+bootstrap-4.1.0/
